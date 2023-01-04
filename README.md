@@ -27,7 +27,7 @@ step 0; if you dont have python3 installed go to https://www.python.org/download
 
 Step 1; Download Zip and extract
 
-Step 2; Run the requirements file and wait until it finishes and installs all requirements
+Step 2; install_python.bat it will install python for you
 
 Step 3; run the CookieLogger.exe file and wait until the gui opens
 
